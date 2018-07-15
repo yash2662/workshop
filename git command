@@ -1,0 +1,282 @@
+administrator@IT-PL2-PC23:~/workshop$ >>> a=calc
+bash: syntax error near unexpected token `>'
+administrator@IT-PL2-PC23:~/workshop$ >>> a.add(6,4)
+bash: syntax error near unexpected token `>'
+administrator@IT-PL2-PC23:~/workshop$ 10
+10: command not found
+administrator@IT-PL2-PC23:~/workshop$ >>> a.sub(6,4)
+bash: syntax error near unexpected token `>'
+administrator@IT-PL2-PC23:~/workshop$ 2
+2: command not found
+administrator@IT-PL2-PC23:~/workshop$ >>> a.mul(6,4)
+bash: syntax error near unexpected token `>'
+administrator@IT-PL2-PC23:~/workshop$ 24
+24: command not found
+administrator@IT-PL2-PC23:~/workshop$ >>> a.div(6,4)
+bash: syntax error near unexpected token `>'
+administrator@IT-PL2-PC23:~/workshop$ 1.5
+1.5: command not found
+administrator@IT-PL2-PC23:~/workshop$ >>> dir(a)
+bash: syntax error near unexpected token `>'
+administrator@IT-PL2-PC23:~/workshop$ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'add', 'div', 'mul', 'sub']
+[__class__,: command not found
+administrator@IT-PL2-PC23:~/workshop$ >>> ls
+bash: syntax error near unexpected token `>'
+administrator@IT-PL2-PC23:~/workshop$ Traceback (most recent call last):
+bash: syntax error near unexpected token `most'
+administrator@IT-PL2-PC23:~/workshop$   File "<stdin>", line 1, in <module>
+bash: syntax error near unexpected token `newline'
+administrator@IT-PL2-PC23:~/workshop$ NameError: name 'ls' is not defined
+NameError:: command not found
+administrator@IT-PL2-PC23:~/workshop$ >>> exit()
+bash: syntax error near unexpected token `>'
+administrator@IT-PL2-PC23:~/workshop$ administrator@IT-PL2-PC23:~/workshop$ ls
+bash: administrator@IT-PL2-PC23:~/workshop$: No such file or directory
+administrator@IT-PL2-PC23:~/workshop$ mycalc.py  mycalc.py~  myname.txt  __pycache__  README.md
+mycalc.py: command not found
+administrator@IT-PL2-PC23:~/workshop$ administrator@IT-PL2-PC23:~/workshop$ git
+bash: administrator@IT-PL2-PC23:~/workshop$: No such file or directory
+administrator@IT-PL2-PC23:~/workshop$ usage: git [--version] [--help] [-C <path>] [-c name=value]
+bash: path: No such file or directory
+administrator@IT-PL2-PC23:~/workshop$            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+bash: path: No such file or directory
+administrator@IT-PL2-PC23:~/workshop$            [-p|--paginate|--no-pager] [--no-replace-objects] [--bare]
+--paginate: command not found
+[-p: command not found
+--no-pager]: command not found
+administrator@IT-PL2-PC23:~/workshop$            [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]bash: path: No such file or directory
+administrator@IT-PL2-PC23:~/workshop$            <command> [<args>]
+bash: command: No such file or directory
+administrator@IT-PL2-PC23:~/workshop$ 
+administrator@IT-PL2-PC23:~/workshop$ The most commonly used git commands are:
+No command 'The' found, did you mean:
+ Command 'the' from package 'the' (universe)
+The: command not found
+administrator@IT-PL2-PC23:~/workshop$    add        Add file contents to the index
+No command 'add' found, did you mean:
+ Command 'ad' from package 'netatalk' (universe)
+ Command 'hadd' from package 'root-system-bin' (universe)
+ Command 'adbd' from package 'android-tools-adbd' (universe)
+ Command 'atd' from package 'at' (main)
+ Command 'axd' from package 'afnix' (universe)
+ Command 'adb' from package 'android-tools-adb' (universe)
+ Command 'tdd' from package 'devtodo' (universe)
+ Command 'dd' from package 'coreutils' (main)
+ Command 'ldd' from package 'libc-bin' (main)
+ Command 'and' from package 'and' (universe)
+ Command 'aid' from package 'id-utils' (universe)
+ Command 'amd' from package 'am-utils' (universe)
+ Command 'ddd' from package 'ddd' (universe)
+add: command not found
+administrator@IT-PL2-PC23:~/workshop$    bisect     Find by binary search the change that introduced a bug
+bisect: command not found
+administrator@IT-PL2-PC23:~/workshop$    branch     List, create, or delete branches
+The program 'branch' is currently not installed. You can install it by typing:
+sudo apt-get install rheolef
+administrator@IT-PL2-PC23:~/workshop$    checkout   Checkout a branch or paths to the working tree
+checkout: command not found
+administrator@IT-PL2-PC23:~/workshop$    clone      Clone a repository into a new directory
+No command 'clone' found, did you mean:
+ Command 'cone' from package 'cone' (universe)
+clone: command not found
+administrator@IT-PL2-PC23:~/workshop$    commit     Record changes to the repository
+commit: command not found
+administrator@IT-PL2-PC23:~/workshop$    diff       Show changes between commits, commit and working tree, etc
+diff: extra operand 'between'
+diff: Try 'diff --help' for more information.
+administrator@IT-PL2-PC23:~/workshop$    fetch      Download objects and refs from another repository
+No command 'fetch' found, did you mean:
+ Command 'efetch' from package 'acedb-other' (universe)
+ Command 'sfetch' from package 'biosquid' (universe)
+ Command 'afetch' from package 'biosquid' (universe)
+ Command 'ifetch' from package 'ifetch-tools' (universe)
+fetch: command not found
+administrator@IT-PL2-PC23:~/workshop$    grep       Print lines matching a pattern
+grep: lines: No such file or directory
+grep: matching: No such file or directory
+grep: a: No such file or directory
+grep: pattern: No such file or directory
+administrator@IT-PL2-PC23:~/workshop$    init       Create an empty Git repository or reinitialize an existing one
+init: Need to be root
+administrator@IT-PL2-PC23:~/workshop$    log        Show commit logs
+No command 'log' found, but there are 16 similar ones
+log: command not found
+administrator@IT-PL2-PC23:~/workshop$    merge      Join two or more development histories together
+The program 'merge' is currently not installed. You can install it by typing:
+sudo apt-get install rcs
+administrator@IT-PL2-PC23:~/workshop$    mv         Move or rename a file, a directory, or a symlink
+mv: target ‘symlink’ is not a directory
+administrator@IT-PL2-PC23:~/workshop$    pull       Fetch from and integrate with another repository or a local branch
+No command 'pull' found, did you mean:
+ Command 'publ' from package 'atfs' (universe)
+pull: command not found
+administrator@IT-PL2-PC23:~/workshop$    push       Update remote refs along with associated objects
+The program 'push' is currently not installed. You can install it by typing:
+sudo apt-get install heimdal-clients
+administrator@IT-PL2-PC23:~/workshop$    rebase     Forward-port local commits to the updated upstream head
+rebase: command not found
+administrator@IT-PL2-PC23:~/workshop$    reset      Reset current HEAD to the specified state
+Usage: reset [options] [terminal]
+
+Options:
+  -c          set control characters
+  -e ch       erase character
+  -I          no initialization strings
+  -i ch       interrupt character
+  -k ch       kill character
+  -m mapping  map identifier to type
+  -Q          do not output control key settings
+  -r          display term on stderr
+  -s          output TERM set command
+  -V          print curses-version
+  -w          set window-size
+
+administrator@IT-PL2-PC23:~/workshop$    rm         Remove files from the working tree and from the index
+rm: cannot remove ‘Remove’: No such file or directory
+rm: cannot remove ‘files’: No such file or directory
+rm: cannot remove ‘from’: No such file or directory
+rm: cannot remove ‘the’: No such file or directory
+rm: cannot remove ‘working’: No such file or directory
+rm: cannot remove ‘tree’: No such file or directory
+rm: cannot remove ‘and’: No such file or directory
+rm: cannot remove ‘from’: No such file or directory
+rm: cannot remove ‘the’: No such file or directory
+rm: cannot remove ‘index’: No such file or directory
+administrator@IT-PL2-PC23:~/workshop$    show       Show various types of objects
+The program 'show' is currently not installed. You can install it by typing:
+sudo apt-get install nmh
+administrator@IT-PL2-PC23:~/workshop$    status     Show the working tree status
+status: Unknown job: Show
+administrator@IT-PL2-PC23:~/workshop$    tag        Create, list, delete or verify a tag object signed with GPG
+No command 'tag' found, did you mean:
+ Command 'tig' from package 'tig' (universe)
+ Command 'ag' from package 'silversearcher-ag' (universe)
+ Command 'ag' from package 'python-ase' (universe)
+ Command 'btag' from package 'btag' (universe)
+ Command 'thg' from package 'tortoisehg' (universe)
+ Command 'tar' from package 'tar' (main)
+ Command 'tac' from package 'coreutils' (main)
+ Command 'vtag' from package 'util-vserver' (universe)
+ Command 'tg' from package 'topgit' (universe)
+ Command 'mag' from package 'texlive-binaries' (main)
+ Command 'htag' from package 'htag' (universe)
+ Command 'tao' from package 'taopm' (universe)
+ Command 'jtag' from package 'openwince-jtag' (universe)
+ Command 'jtag' from package 'urjtag' (universe)
+tag: command not found
+administrator@IT-PL2-PC23:~/workshop$ 
+administrator@IT-PL2-PC23:~/workshop$ 'git help -a' and 'git help -g' lists available subcommands and some
+git help -a: command not found
+administrator@IT-PL2-PC23:~/workshop$ concept guides. See 'git help <command>' or 'git help <concept>'
+concept: command not found
+administrator@IT-PL2-PC23:~/workshop$ to read about a specific subcommand or concept.
+to: command not found
+administrator@IT-PL2-PC23:~/workshop$ administrator@IT-PL2-PC23:~/workshop$ status
+bash: administrator@IT-PL2-PC23:~/workshop$: No such file or directory
+administrator@IT-PL2-PC23:~/workshop$ status: missing job name
+No command 'status:' found, did you mean:
+ Command 'status' from package 'upstart' (main)
+status:: command not found
+administrator@IT-PL2-PC23:~/workshop$ Try `status --help' for more information.
+> administrator@IT-PL2-PC23:~/workshop$ git status
+> On branch master
+> Your branch is up-to-date with 'origin/master'.
+> 
+> Untracked files:
+>   (use "git add <file>..." to include in what will be committed)
+> 
+> __pycache__/
+> mycalc.py
+> mycalc.py~
+> 
+> nothing added to commit but untracked files present (use "git add" to track)
+> administrator@IT-PL2-PC23:~/workshop$ git add mycalc.py
+> administrator@IT-PL2-PC23:~/workshop$ git status
+> On branch master
+> Your branch is up-to-date with 'origin/master'.
+> 
+> Changes to be committed:
+>   (use "git reset HEAD <file>..." to unstage)
+> 
+> new file:   mycalc.py
+> 
+> Untracked files:
+>   (use "git add <file>..." to include in what will be committed)
+> 
+> __pycache__/
+> mycalc.py~
+> 
+> administrator@IT-PL2-PC23:~/workshop$ git log
+> commit 1495f319c10f776b24766e6f693bc93b94d7af6a
+> Author: yash sharma <yash2662@gmail.com>
+> Date:   Sat Jul 14 13:25:22 2018 +0530
+> 
+>     myfirst contribution
+>     
+>     Signed-off-by: yash sharma <yash2662@gmail.com>
+> 
+> commit e1400397a19b4982b884cb37f6545a8a63e5b410
+> Author: yash2662 <41226773+yash2662@users.noreply.github.com>
+> Date:   Sat Jul 14 07:03:17 2018 +0000
+> 
+>     Update README.md
+> 
+> commit d7ea54b3b86d8e8c968d332bfd0f9b6b8809cf30
+> Author: yash2662 <41226773+yash2662@users.noreply.github.com>
+> Date:   Sat Jul 14 06:42:43 2018 +0000
+> 
+>     Initial commit
+> administrator@IT-PL2-PC23:~/workshop$ git status
+> On branch master
+> Your branch is up-to-date with 'origin/master'.
+> 
+> Changes to be committed:
+>   (use "git reset HEAD <file>..." to unstage)
+> 
+> new file:   mycalc.py
+> 
+> Untracked files:
+>   (use "git add <file>..." to include in what will be committed)
+> 
+> __pycache__/
+> mycalc.py~
+> 
+> administrator@IT-PL2-PC23:~/workshop$ git push  origin master
+> Username for 'https://github.com': yash2662
+> Password for 'https://yash2662@github.com': 
+> Everything up-to-date
+> administrator@IT-PL2-PC23:~/workshop$ git stata
+> git: 'stata' is not a git command. See 'git --help'.
+> 
+> Did you mean this?
+> status
+> administrator@IT-PL2-PC23:~/workshop$ git status 
+> On branch master
+> Your branch is up-to-date with 'origin/master'.
+> 
+> Changes to be committed:
+>   (use "git reset HEAD <file>..." to unstage)
+> 
+> new file:   mycalc.py
+> 
+> Untracked files:
+>   (use "git add <file>..." to include in what will be committed)
+> 
+> __pycache__/
+> mycalc.py~
+> 
+> administrator@IT-PL2-PC23:~/workshop$ git commit -s -m "calculator program"
+> [master d92f34c] calculator program
+>  1 file changed, 9 insertions(+)
+>  create mode 100644 mycalc.py
+> administrator@IT-PL2-PC23:~/workshop$ git push  origin master
+> Username for 'https://github.com': yash2662
+> Password for 'https://yash2662@github.com': 
+> Counting objects: 4, done.
+> Delta compression using up to 2 threads.
+> Compressing objects: 100% (3/3), done.
+> Writing objects: 100% (3/3), 398 bytes | 0 bytes/s, done.
+> Total 3 (delta 0), reused 0 (delta 0)
+> To https://github.com/yash2662/workshop
+> 
+
